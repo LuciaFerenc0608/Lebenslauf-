@@ -1,0 +1,48 @@
+   
+
+ 
+
+   h1,h2,h3  {
+    text-align: center;
+    text-decoration: dotted;
+    background-color: rgb(237, 132, 4);
+    font-style:italic ;
+    font-weight: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 40px ;
+    }
+   
+   .nadpis1,.nadpis2,.nadpis3,.nadpis5,footer {
+    background-color: darksalmon ;
+    text-align:center ;
+    font-style:oblique ;
+    font-size: 30px;
+    line-height: 1,8;
+   }
+
+
+    .nadpis4 img {
+   border: 5px  rgb(83, 244, 83) ;
+   width: 16% ;
+   background-color:rgb(237, 132, 4) ;
+    }
+
+    
+    .hlavicka img {
+     background-color: darksalmon ;
+     border-radius : 50% ;
+     border: 5px  rgb(83, 244, 83) ;
+     margin-inline-start: 28%;
+     }
+
+     body {
+    
+      background-color:  orange  ;
+     }
+
+
+
+
+
+
+
