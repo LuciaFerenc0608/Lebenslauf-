@@ -100,7 +100,12 @@ h2 {
 }
   
    
-   
+   @media screen (max-width:480px){
+     h2{font-size: 1.5rem !important;
+       }
+     h3{font-size: 1..2rem !important;
+       }
+   }
 
     @media screen and (min-width:600px){
  .container{
