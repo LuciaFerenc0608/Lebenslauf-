@@ -67,8 +67,18 @@ h1 {
     box-shadow: inset 0 0 10px yellow;
   
    } 
-    
-      
+    section{
+      padding:60px 20px;
+      border-top:2px solid #FFD700;
+      max-dith:900px;
+      margin:0 auto;
+    }
+h2 {
+  color: yellow;
+  text-transform: uppercase,
+  letter-spacing:2px;
+  margin-bottom: 30px;
+}
            
    
    
