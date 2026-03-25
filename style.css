@@ -67,6 +67,10 @@ h1 {
     box-shadow: inset 0 0 10px yellow;
   
    } 
+     .box {
+       text-align: center !important;
+     }
+
     section{
       padding:60px 20px;
       border-top:2px solid #FFD700;
