@@ -147,7 +147,7 @@ font-weight:bold;
   padding-bottom: 5px;
     }
 
- .box3 img {
+ .box3 img, .box4 img {
   background-color: transparent !important;
   width: 40px !important;
    height:auto;
@@ -155,10 +155,10 @@ font-weight:bold;
  transition: transform 0.3s;
    filter: drop-shadow(0px 0px 5px rgba(255,215,0, 0.5));
 }
- .box3 img:hover {
+ .box3 img:hover, .box4 img:hover {
    transform: scale(1.2);
  }
-   .box3 a{
+   .box3 a, .box4 a {
     color: #ffffff !important;
     decoration:none;
      font-size: 0.9rem;
@@ -166,11 +166,7 @@ font-weight:bold;
      margin-top:5px;
   }
 
-  .box4 img {
-    background-color: yellow;
-    width:38px;
-  }
-   
+ 
  .paticka{
   text-align: center;
   background-color:rgba(0,0,0,0.5)
