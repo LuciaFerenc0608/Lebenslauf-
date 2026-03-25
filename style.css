@@ -81,6 +81,8 @@ h2 {
 }
  .Ja div .box h2,
  .Ja div .box h3{
+   font-size: 1.1em !important;
+   line-height: 1.4;
    border: none !important;
    background: none !important;
    padding: 0 0 10px 0 !important;
