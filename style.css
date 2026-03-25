@@ -141,18 +141,26 @@ h2 {
     
  .nadpis5  {
   text-align: center;
-  
-  color: black;
+  background: transparent;
+  color: yellow;
+font-weight:bold;
   padding-bottom: 5px;
-   
- 
-  
- }
+    }
+
  .box3 img {
-  background-color: yellow;
+  background-color: transparent !important;
   width: 40px;
- 
+   height:auto;
+   margin: 10px;
+ transition: transform 0.3s;
 }
+ .box3 img:hover {
+   transform: scale(1.2);
+ }
+  footer a; .box3 a{
+    color: #ffffff !important;
+    decoration:none;
+  }
 
   .box4 img {
     background-color: yellow;
