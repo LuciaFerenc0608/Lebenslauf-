@@ -22,7 +22,10 @@ h1 {
   border-radius: 50%;
   margin:20px;
 }
-
+ .menu ul{
+   align-items:center;
+   justify-content:center;
+ }
  .menu li {
   font-size: 15px;
   display:flex;
@@ -32,13 +35,13 @@ h1 {
   padding-block: 20px;
   border-radius: 8px;
   padding:10px;
-  
-  
+  margin:10px 20px;
  }
 
    .menu a {
     color:black;
-    
+    font-weight:bold;
+     font-size:1..2rem;
     
     
    }
